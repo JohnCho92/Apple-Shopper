@@ -8,7 +8,7 @@ const LogInOrSignUp = () => {
   return (
     <div>
       <Login />
-      <Link to="/newSignUp">Sign UP</Link>
+      <Link to="/newSignUp">Sign Up</Link>
     </div>
   )
 }
