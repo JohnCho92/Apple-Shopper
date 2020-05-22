@@ -10,5 +10,5 @@ Node.js, Express, React, Redux, PostgreSQL, Sequelize
 
 ## Links
 
-Deployed App: https://apple-shopper.herokuapp.com/
+Deployed App: https://apple-shopper.herokuapp.com/ <br />
 Walkthrough Video: https://www.youtube.com/watch?v=VW0poFgnWsw
